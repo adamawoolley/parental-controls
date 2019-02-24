@@ -9,4 +9,5 @@ To remove rules
 ```bash
 # parent {-r/--remove} {user} {program}
 ```
-** Note if program is omitted then all entries for the given user will be deleted **
+** Note if program is omitted then all entries for the given user will be deleted **  
+Now you can what your child's frustration with such joy as they try to access these programs
