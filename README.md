@@ -1,5 +1,7 @@
 # parental-controls
-Control what programs your kids can and can't access  
+## Control what programs your kids can and can't access  
+### Made happily with the consent of children  
+
 To install run `python3 install.py`  
 To add rules
 ```bash
